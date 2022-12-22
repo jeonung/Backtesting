@@ -6,6 +6,6 @@
 * Rebalance annually
 
 ## The starategies
-* Low PER : The 50 stocks with the lowest PER
-* High Dividend yields : The 50 Korean stocks with the highest dividend yields
-* Bechmark : The 50 stocks with the highest market cap
+* Low PER : Select the lowest PER 50 stocks 
+* High Dividend yields : Select the highest dividend yields 50 stocks 
+* Bechmark : Select the highest market cap 50 stocks 
